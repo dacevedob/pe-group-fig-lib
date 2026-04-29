@@ -1,143 +1,408 @@
 GIMP Palette
 Name: PE Group CVD
-Columns: 1
+Columns: 59
 # <https://sronpersonalpages.nl/~pault/data/colourschemes.pdf>
 
-# Bright 
- 68 119 170 #4477AA - Bright blue
-102 204 238 #66CCEE - Bright cyan
- 34 136  51 #228833 - Bright green
-204 187  68 #CCBB44 - Bright yellow
-238 102 119 #EE6677 - Bright red
-170  51 119 #AA3377 - Bright purple
-187 187 187 #BBBBBB - Bright gre
+# Bright
+ 68 119 170 Bright blue
+#4477AA - Bright blue
+102 204 238 Bright cyan
+#66CCEE - Bright cyan
+ 34 136  51 Bright green
+#228833 - Bright green
+204 187  68 Bright yellow
+#CCBB44 - Bright yellow
+238 102 119 Bright red
+#EE6677 - Bright red
+170  51 119 Bright purple
+#AA3377 - Bright purple
+187 187 187 Bright grey
+#BBBBBB - Bright grey
 
 # High-contrast
-255 255 255 #FFFFFF - High-contrast white
-221 170  51 #DDAA33 - High-contrast yellow
-187  85 102 #BB5566 - High-contrast red
-  0  68 136 #004488 - High-contrast blue
-  0   0   0 #000000 - High-contrast clack
+255 255 255 High-contrast white
+#FFFFFF - High-contrast white
+221 170  51 High-contrast yellow
+#DDAA33 - High-contrast yellow
+187  85 102 High-contrast red
+#BB5566 - High-contrast red
+  0  68 136 High-contrast blue
+#004488 - High-contrast blue
+  0   0   0 High-contrast black
+#000000 - High-contrast black
 
 # Vibrant
-  0 119 187 #0077BB - Vibrant blue
- 51 187 238 #33BBEE - Vibrant cyan
-  0 153 136 #009988 - Vibrant teal
-238 119  51 #EE7733 - Vibrant orange
-204  51  17 #CC3311 - Vibrant red
-238  51 119 #EE3377 - Vibrant magenta
-187 187 187 #BBBBBB - Vibrant grey
+  0 119 187 Vibrant blue
+#0077BB - Vibrant blue
+ 51 187 238 Vibrant cyan
+#33BBEE - Vibrant cyan
+  0 153 136 Vibrant teal
+#009988 - Vibrant teal
+238 119  51 Vibrant orange
+#EE7733 - Vibrant orange
+204  51  17 Vibrant red
+#CC3311 - Vibrant red
+238  51 119 Vibrant magenta
+#EE3377 - Vibrant magenta
+187 187 187 Vibrant grey
+#BBBBBB - Vibrant grey
 
 # Muted
- 51  34 136 #332288 - Muted indigo
-136 204 238 #88CCEE - Muted cyan
- 68 170 153 #44AA99 - Muted teal
- 17 119  51 #117733 - Muted green
-153 153  51 #999933 - Muted olive
-221 204 119 #DDCC77 - Muted sand
-204 102 119 #CC6677 - Muted rose
-136  34  85 #882255 - Muted wine
-170  68 153 #AA4499 - Muted purple
-221 221 221 #DDDDDD - Muted pale grey
+ 51  34 136 Muted indigo
+#332288 - Muted indigo
+136 204 238 Muted cyan
+#88CCEE - Muted cyan
+ 68 170 153 Muted teal
+#44AA99 - Muted teal
+ 17 119  51 Muted green
+#117733 - Muted green
+153 153  51 Muted olive
+#999933 - Muted olive
+221 204 119 Muted sand
+#DDCC77 - Muted sand
+204 102 119 Muted rose
+#CC6677 - Muted rose
+136  34  85 Muted wine
+#882255 - Muted wine
+170  68 153 Muted purple
+#AA4499 - Muted purple
+221 221 221 Muted pale grey
+#DDDDDD - Muted pale grey
 
-# Medium-contrast 
-255 255 255 #FFFFFF - Medium-contrast white
-238 204 102 #EECC66 - Medium-contrast light yellow
-238 153 170 #EE99AA - Medium-contrast light red
-102 153 204 #6699CC - Medium-contrast light blue
-153 119   0 #997700 - Medium-contrast dark yellow
-153  68  85 #994455 - Medium-contrast dark red
-  0  68 136 #004488 - Medium-contrast dark blue
-  0   0   0 #000000 - Medium-contrast black
+# Medium-contrast
+255 255 255 Medium-contrast white
+#FFFFFF - Medium-contrast white
+238 204 102 Medium-contrast light yellow
+#EECC66 - Medium-contrast light yellow
+238 153 170 Medium-contrast light red
+#EE99AA - Medium-contrast light red
+102 153 204 Medium-contrast light blue
+#6699CC - Medium-contrast light blue
+153 119   0 Medium-contrast dark yellow
+#997700 - Medium-contrast dark yellow
+153  68  85 Medium-contrast dark red
+#994455 - Medium-contrast dark red
+  0  68 136 Medium-contrast dark blue
+#004488 - Medium-contrast dark blue
+  0   0   0 Medium-contrast black
+#000000 - Medium-contrast black
 
 # Pale and dark
- 34  34  85 #222255 - Dark blue
- 87 204 238 #BBCCEE - Pale blue
- 34  85  85 #225555 - Dark cyan
-204 238 255 #CCEEFF - Pale cyan
- 34  85  34 #225522 - Dark green
-204 221 170 #CCDDAA - Pale green
-102 102  51 #666633 - Dark yellow
-238 238 187 #EEEEBB - Pale yellow
-102  51  51 #663333 - Dark red
-255 204 204 #FFCCCC - Pale red
- 85  85  85 #555555 - Dark grey
-221 221 221 #DDDDDD - Pale grey
+ 34  34  85 Dark blue
+#222255 - Dark blue
+ 87 204 238 Pale blue
+#BBCCEE - Pale blue
+ 34  85  85 Dark cyan
+#225555 - Dark cyan
+204 238 255 Pale cyan
+#CCEEFF - Pale cyan
+ 34  85  34 Dark green
+#225522 - Dark green
+204 221 170 Pale green
+#CCDDAA - Pale green
+102 102  51 Dark yellow
+#666633 - Dark yellow
+238 238 187 Pale yellow
+#EEEEBB - Pale yellow
+102  51  51 Dark red
+#663333 - Dark red
+255 204 204 Pale red
+#FFCCCC - Pale red
+ 85  85  85 Dark grey
+#555555 - Dark grey
+221 221 221 Pale grey
+#DDDDDD - Pale grey
 
-# Light qualitative 
-119 170 221 #77AADD - Light blue
-153 221 255 #99DDFF - Light cyan
- 68 187 153 #44BB99 - Mint
-187 204  51 #BBCC33 - Pear 
-170 170   0 #AAAA00 - Olive
-238 221 136 #EEDD88 - Light yellow
-238 136 102 #EE8866 - Orange
-255 170 187 #FFAABB - Pink
-221 221 221 #DDDDDD - Pale grey
+# Light qualitative
+119 170 221 Light blue
+#77AADD - Light blue
+153 221 255 Light cyan
+#99DDFF - Light cyan
+ 68 187 153 Light Mint
+#44BB99 - Light Mint
+187 204  51 Light Pear
+#BBCC33 - Light Pear
+170 170   0 Light Olive
+#AAAA00 - Light Olive
+238 221 136 Light yellow
+#EEDD88 - Light yellow
+238 136 102 Light Orange
+#EE8866 - Light Orange
+255 170 187 Light Pink
+#FFAABB - Light Pink
+221 221 221 Light Pale grey
+#DDDDDD - Light Pale grey
 
 # Sunset
- 54  75 154 #364B9A - Sunset 1
- 74 123 183 #4A7BB7 - Sunset 2
-110 166 205 #6EA6CD - Sunset 3
-152 202 225 #98CAE1 - Sunset 4
-194 228 239 #C2E4EF - Sunset 5
-234 236 204 #EAECCC - Sunset 6
-254 218 139 #FEDA8B - Sunset 7
-253 179 102 #FDB366 - Sunset 8
-246 126  75 #F67E4B - Sunset 9
-221  61  45 #DD3D2D - Sunset 10
-165   0  38 #A50026 - Sunset 11
-255 255 255 #FFFFFF - Sunset 12
+ 54  75 154 Sunset 1
+#364B9A - Sunset 1
+ 74 123 183 Sunset 2
+#4A7BB7 - Sunset 2
+110 166 205 Sunset 3
+#6EA6CD - Sunset 3
+152 202 225 Sunset 4
+#98CAE1 - Sunset 4
+194 228 239 Sunset 5
+#C2E4EF - Sunset 5
+234 236 204 Sunset 6
+#EAECCC - Sunset 6
+254 218 139 Sunset 7
+#FEDA8B - Sunset 7
+253 179 102 Sunset 8
+#FDB366 - Sunset 8
+246 126  75 Sunset 9
+#F67E4B - Sunset 9
+221  61  45 Sunset 10
+#DD3D2D - Sunset 10
+165   0  38 Sunset 11
+#A50026 - Sunset 11
+255 255 255 Sunset 12
+#FFFFFF - Sunset 12
 
 # BuRd
- 33 102 172 #2166AC - BuRd 1
- 67 147 195 #4393C3 - BuRd 2
-146 197 222 #92C5DE - BuRd 3
-209 229 240 #D1E5F0 - BuRd 4
-247 247 247 #F7F7F7 - BuRd 5
-253 219 199 #FDDBC7 - BuRd 6
-244 165 130 #F4A582 - BuRd 7
-214  96  77 #D6604D - BuRd 8
-178  24  43 #B2182B - BuRd 9
-255 238 153 #FFEE99 - BuRd 10
+ 33 102 172 BuRd 1
+#2166AC - BuRd 1
+ 67 147 195 BuRd 2
+#4393C3 - BuRd 2
+146 197 222 BuRd 3
+#92C5DE - BuRd 3
+209 229 240 BuRd 4
+#D1E5F0 - BuRd 4
+247 247 247 BuRd 5
+#F7F7F7 - BuRd 5
+253 219 199 BuRd 6
+#FDDBC7 - BuRd 6
+244 165 130 BuRd 7
+#F4A582 - BuRd 7
+214  96  77 BuRd 8
+#D6604D - BuRd 8
+178  24  43 BuRd 9
+#B2182B - BuRd 9
+255 238 153 BuRd 10
+#FFEE99 - BuRd 10
 
-# PRGn
-118  42 131 #762A83 - PRGn 1
-153 112 171 #9970AB - PRGn 2
-194 165 207 #C2A5CF - PRGn 3
-231 212 232 #E7D4E8 - PRGn 4
-247 247 247 #F7F7F7 - PRGn 5
-217 240 211 #D9F0D3 - PRGn 6
-172 211 158 #ACD39E - PRGn 7
- 90 174  97 #5AAE61 - PRGn 8
- 27 120  55 #1B7837 - PRGn 9
-255 238 153 #FFEE99 - PRGn 10
+# PrGn
+118  42 131 PrGn 1
+#762A83 - PrGn 1
+153 112 171 PrGn 2
+#9970AB - PrGn 2
+194 165 207 PrGn 3
+#C2A5CF - PrGn 3
+231 212 232 PrGn 4
+#E7D4E8 - PrGn 4
+247 247 247 PrGn 5
+#F7F7F7 - PrGn 5
+217 240 211 PrGn 6
+#D9F0D3 - PrGn 6
+172 211 158 PrGn 7
+#ACD39E - PrGn 7
+ 90 174  97 PrGn 8
+#5AAE61 - PrGn 8
+ 27 120  55 PrGn 9
+#1B7837 - PrGn 9
+255 238 153 PrGn 10
+#FFEE99 - PrGn 10
 
 # Iridescent
 
-254 251 233 #FEFBE9 - Iridescent 1
-252 247 213 #FCF7D5 - Iridescent 2
-245 243 193 #F5F3C1 - Iridescent 3
-234 240 181 #EAF0B5 - Iridescent 4
-221 236 191 #DDECBF - Iridescent 5
-208 231 202 #D0E7CA - Iridescent 6
-194 227 210 #C2E3D2 - Iridescent 7
-181 221 216 #B5DDD8 - Iridescent 8
-168 216 220 #A8D8DC - Iridescent 9
-155 210 225 #9BD2E1 - Iridescent 10
-141 203 228 #8DCBE4 - Iridescent 11
-129 196 231 #81C4E7 - Iridescent 12
-123 188 231 #7BBCE7 - Iridescent 13
-126 178 228 #7EB2E4 - Iridescent 14
-136 165 221 #88A5DD - Iridescent 15
-147 152 210 #9398D2 - Iridescent 16
-155 138 196 #9B8AC4 - Iridescent 17
-157 125 178 #9D7DB2 - Iridescent 18
-154 112 158 #9A709E - Iridescent 19
-144  99 136 #906388 - Iridescent 20
-128  87 112 #805770 - Iridescent 21
-104  73  87 #684957 - Iridescent 22
- 70  53  58 #46353A - Iridescent 23
-153 153 153 #999999 - Iridescent 24
+254 251 233 Iridescent 1
+#FEFBE9 - Iridescent 1
+252 247 213 Iridescent 2
+#FCF7D5 - Iridescent 2
+245 243 193 Iridescent 3
+#F5F3C1 - Iridescent 3
+234 240 181 Iridescent 4
+#EAF0B5 - Iridescent 4
+221 236 191 Iridescent 5
+#DDECBF - Iridescent 5
+208 231 202 Iridescent 6
+#D0E7CA - Iridescent 6
+194 227 210 Iridescent 7
+#C2E3D2 - Iridescent 7
+181 221 216 Iridescent 8
+#B5DDD8 - Iridescent 8
+168 216 220 Iridescent 9
+#A8D8DC - Iridescent 9
+155 210 225 Iridescent 10
+#9BD2E1 - Iridescent 10
+141 203 228 Iridescent 11
+#8DCBE4 - Iridescent 11
+129 196 231 Iridescent 12
+#81C4E7 - Iridescent 12
+123 188 231 Iridescent 13
+#7BBCE7 - Iridescent 13
+126 178 228 Iridescent 14
+#7EB2E4 - Iridescent 14
+136 165 221 Iridescent 15
+#88A5DD - Iridescent 15
+147 152 210 Iridescent 16
+#9398D2 - Iridescent 16
+155 138 196 Iridescent 17
+#9B8AC4 - Iridescent 17
+157 125 178 Iridescent 18
+#9D7DB2 - Iridescent 18
+154 112 158 Iridescent 19
+#9A709E - Iridescent 19
+144  99 136 Iridescent 20
+#906388 - Iridescent 20
+128  87 112 Iridescent 21
+#805770 - Iridescent 21
+104  73  87 Iridescent 22
+#684957 - Iridescent 22
+ 70  53  58 Iridescent 23
+#46353A - Iridescent 23
+153 153 153 Iridescent 24
+#999999 - Iridescent 24
+  0   0   0
+  0   0   0
+  0   0   0
+
+# GeoDataViz
+
+# Qualitative
+255  31  91
+  0 205 108
+  0 154 222
+175  88 186
+255 198  30
+242 133  34
+160 177 186
+166 118  29
+233   0  45 Default
+255 170   0
+  0 176   0
+196  15  91 CVD
+253 141  60
+  8 144 153
+
+# Single Sequential 1
+228 241 247 Seq 1
+197 225 239
+158 201 226
+108 176 214
+ 60 147 194
+ 34 110 156
+ 13  74 112
+
+# Single Sequential 2
+225 242 227 Seq 2
+205 229 210
+156 206 167
+108 186 125
+ 64 173  90
+ 34 139  59
+  6  89  42
+
+# Single Sequential 3
+249 216 230 Seq 3
+242 172 202
+237 133 176
+233  86 148
+227  41 119
+196  15  91
+143   0  59
+
+# Multi Sequential 1
+183 230 165 Multi Seq 1
+124 203 162
+ 70 174 160
+  8 144 153
+  0 113 139
+  4  82 117
+  0  49  71
+
+# Multi Sequential 2
+252 225 164 Multi Seq 2
+250 191 123
+240 143 110
+224  92  92
+209  41  89
+171  24 102
+110   0  95
+
+# Multi Sequential 3
+255 243 178 Multi Seq 3
+254 217 118
+254 178  76
+253 141  60
+252  78  42
+227  26  28
+177   0  38
+  0   0   0
+  0   0   0
+  0   0   0
+
+# Diverging
+
+# Diverging 1
+  0 147 146 Diverging 1
+ 57 177 133
+156 203 134
+233 226 156
+238 180 121
+232 132 113
+207  89 126
+
+# Diverging 2
+  4  82 117 Diverging 2
+  8 144 153
+124 203 162
+252 222 156
+240 116 110
+220 57 119
+124 29 111
+
+# Diverging 3
+ 68  63 144 Diverging 3 (CVD)
+104  91 167
+165 153 202
+245 221 235
+244 146 165
+234 110 138
+210  28  94
+
+# Diverging 4
+  0 128  66 Diverging 4 (CVD)
+111 162  83
+183 195 112
+252 228 152
+215 130 135
+191  86 136
+124  29 111
+
+# Bivariate
+
+# Bivariate 1 (CVD)
+237 186  80 B1 Row 1 (CVD)
+158 161  75
+ 73 134  70
+233 219 172 B1 Row 2 (CVD)
+155 190 162
+ 71 158 151
+230 249 255 B1 Row 3 (CVD)
+153 215 240
+ 70 180 224
+
+# Bivariate 2 (CVD)
+149 128 212 B2 Row 1  (CVD)
+107 120 152
+ 59 111  82
+195 181 233 B2 Row 2 (CVD)
+140 170 167
+ 78 156  90
+241 235 255 B2 Row 3 (CVD)
+174 221 183
+ 96 204  99
+
+# Bivariate 3 (CVD)
+242  70 126 B3 Row 1 (CVD)
+161  61 119
+ 74  51 111
+235 173 200 B3 Row 2 (CVD)
+157 150 188
+ 72 125 176
+230 249 255 B3 Row 3 (CVD)
+153 215 240
+ 70 180 224
 
 # EOF
